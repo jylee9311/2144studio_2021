@@ -1,0 +1,6 @@
+﻿MissionNum,Map,MissionImportance,Rank,MissionContents,CompleteContents,CompleteStatusGoal,CompleteStatusCur,Clear,ChallengingNum
+4,맵번호,0:메인 1:서브,"A,B,C,D로 이루어짐",미션 수행할 내용,달성해야하는 목표,목표치,현재달성도,클리어 유무,도전 횟수
+1,1,0,A,차오의 생선을 구하자,생선,2,1,0,1
+2,10,1,D,현세에 잘못 심어진 마법 나무에 독을 풀자,마법 나무,6,0,0,0
+3,2,0,B,쥐를 잡자 쥐를 잡자,쥐,6,0,0,0
+4,4,0,C,종이를 줍자,종이,4,0,0,0
